@@ -2,7 +2,7 @@ Hi there,
 
 I am Bibhash Ghosh, currently working as a software developer at TCS. 
 
-Regarding my work experience I am Python Developer. Worked on OpenCv, Data extraction and Big Data transfer using Full and Incremental Load.
+Regarding my work experience I am Python Developer. I have worked on OpenCv, Data extraction from pdf using python and Big Data transfer using Full and Incremental Load.
 
 I have done MCA from Jadavpur University.
 
