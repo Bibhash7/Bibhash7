@@ -1,11 +1,11 @@
 Hi there,
 
-I am Bibhash Ghosh, currently working as a software developer at TCS. 
+I am Bibhash Ghosh, worked as an SDE-1 at Amazon, and as an Assistant System Enginner at TCS. I have completed my MCA ( Master of Computer Applications ) from Jadavpur University, West Bengal, India. 
 
-Regarding my work experience I am Python Developer. I have worked on OpenCv, Data extraction from pdf using python and Big Data transfer using Full and Incremental Load.
+My region of interest: Big Data, ETL, SQL, DWH, ML/DL and Computer Vision.
 
-I have done MCA from Jadavpur University.
+Apart from that, I always love do Competitive Programming from my academics, and still exploring. Logic building and optimising a code/query excites me more than anything.
 
-I am keen to learn new technologies. I have excelld in C++ and Python. I love to do competitive programming. 
+And also I am a weeb and I love to explore places and make new friends.
 
-Thats all in a nutshell. Thanks for visiting my repo. Hope my work will help you.
+That's all about me in a nutshell, what about you?
