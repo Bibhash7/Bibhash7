@@ -11,5 +11,4 @@
 #### That's all about me in a nutshell, what about you?
 
 ![Bibhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bibhash7&theme=vue-dark&show_icons=true)
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/bibhash360/)
 
