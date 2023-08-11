@@ -1,8 +1,8 @@
 # Hi there,I am Bibhash Ghosh. 
 
-I worked as an SDE-1 at Amazon, and as an Assistant System Enginner at TCS. I have completed my MCA ( Master of Computer Applications ) from Jadavpur University, West Bengal, India. 
+I worked as aSDE-1 at Amazon, and as an Assistant System Enginner at TCS. I have completed my MCA ( Master of Computer Applications ) from Jadavpur University, West Bengal, India. 
 
-My region of interest: Big Data, ETL, SQL, DWH, ML/DL and Computer Vision.
+My region of interest: Big Data, ETL, SQL, DWH, ML/DL and Computer Vision, Overall Python-based development.
 
 Apart from that, I always love do Competitive Programming from my academics, and still exploring. Logic building and optimising a code/query excites me more than anything.
 
