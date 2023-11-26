@@ -11,4 +11,5 @@ And also I am a weeb and I love to explore places and make new friends.
 That's all about me in a nutshell, what about you?
 
 ![Bibhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bibhash7&theme=vue-dark&show_icons=true)
+![](https://komarev.com/ghpvc/?username=Bibhash7&style=for-the-badge)
 
