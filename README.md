@@ -1,4 +1,4 @@
-# Hi there,I am Bibhash Ghosh. 
+# Hi there, I am Bibhash Ghosh. 
 
 I worked as a SDE-1 at Amazon, and as an Assistant System Enginner at TCS. I have completed my MCA ( Master of Computer Applications ) from Jadavpur University, West Bengal, India. 
 
